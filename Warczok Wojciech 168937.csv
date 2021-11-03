@@ -1,0 +1,15 @@
+"Part";"Value";"Device";"Package";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"POPULARITY";"PRICE";"SPICEPREFIX";
+"C1";"100nF";"C-EU025-024X044";"C025-024X044";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"56";"";"C";
+"C2";"100nF";"C-EU025-024X044";"C025-024X044";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"56";"";"C";
+"IC1";"NE555";"NE555";"DIL-08";"General purpose bipolar Timer";"";"";"Arrow Electronics";"";"NE555N";"1467742";"89K1486";"";"24";"";"";
+"J1";"KF301-2P";"KF301-2P";"HANDSON_KF301-2P";"2 Pin Terminal Block 5mm Pitch Check prices";"Not in stock";" 2 Pin Terminal Block 5mm Pitch ";"Handson Technology";"KF301-2P";"";"";"";"Package ";"";"None";"";
+"LED1";"";"LED5MM";"LED5MM";"LED";"";"";"";"";"";"";"";"";"93";"";"";
+"LED2";"";"LED5MM";"LED5MM";"LED";"";"";"";"";"";"";"";"";"93";"";"";
+"LED3";"";"LED5MM";"LED5MM";"LED";"";"";"";"";"";"";"";"";"93";"";"";
+"LED4";"";"LED5MM";"LED5MM";"LED";"";"";"";"";"";"";"";"";"93";"";"";
+"R1";"1k";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"79";"";"R";
+"R2";"10k";"TRIM_EU-CA6V";"CA6V";"POTENTIOMETER";"";"";"";"";"";"";"";"";"10";"";"";
+"R3";"150";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"79";"";"R";
+"R4";"150";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"79";"";"R";
+"R5";"150";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"79";"";"R";
+"R6";"150";"R-EU_0204/7";"0204/7";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"79";"";"R";
